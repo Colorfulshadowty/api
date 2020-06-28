@@ -12,7 +12,7 @@
 
    body {
     text-align: center;
-    background-image: url('../img/Mobile.jpg') !important;
+    background-image: url('https://cdn.jsdelivr.net/gh/colorfulshadowty1/img/Mobile.jpg') !important;
     background-size: 100% !important;
     background-repeat: no-repeat;
     background-color: #ffffff;
@@ -316,7 +316,7 @@
   @media screen and (min-width:1025px) {
      body {
       text-align: center;
-      background-image: url('../img/1.png') !important;
+      background-image: url('https://cdn.jsdelivr.net/gh/colorfulshadowty1/img/1.png') !important;
       background-size: 100% !important;
       background-repeat: no-repeat;
       background-color: #fff;
